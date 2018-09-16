@@ -1,0 +1,41 @@
+H:\visual studio 2015\Projects\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\Login_Diego_Nogueira.exe.config
+D:\POO\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\Login_Diego_Nogueira.exe.config
+D:\POO\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.exe
+D:\POO\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.pdb
+D:\POO\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\Login_Diego_Nogueira.exe
+D:\POO\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\Login_Diego_Nogueira.pdb
+D:\POO\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\MySql.Data.xml
+D:\POO\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.csprojResolveAssemblyReference.cache
+D:\POO\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.Properties.Resources.resources
+D:\POO\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.UI.frmCadastroUsuario.resources
+D:\POO\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.frmLogin.resources
+D:\POO\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.UI.frmPrincipal.resources
+D:\POO\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.csproj.GenerateResource.Cache
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\Login_Diego_Nogueira.exe.config
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\Login_Diego_Nogueira.exe
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\Login_Diego_Nogueira.pdb
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\MySql.Data.dll
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\MySql.Data.xml
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.csprojResolveAssemblyReference.cache
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.Properties.Resources.resources
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\CamadaInterface.frmCadastroUsuario.resources
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\CamadaInterface.frmLogin.resources
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\CamadaInterface.frmPrincipal.resources
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.csproj.GenerateResource.Cache
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.exe
+H:\POO\Exercício\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.pdb
+C:\Users\NSR\Downloads\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\Login_Diego_Nogueira.exe.config
+C:\Users\NSR\Downloads\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.exe
+C:\Users\NSR\Downloads\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.pdb
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\Login_Diego_Nogueira.exe.config
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.exe
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.pdb
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\Login_Diego_Nogueira.exe
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\Login_Diego_Nogueira.pdb
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Login_Diego_Nogueira\Login_Diego_Nogueira\bin\Debug\MySql.Data.xml
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.csprojResolveAssemblyReference.cache
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.Properties.Resources.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\CamadaInterface.frmCadastroUsuario.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\CamadaInterface.frmLogin.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\CamadaInterface.frmPrincipal.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Login_Diego_Nogueira\Login_Diego_Nogueira\obj\Debug\Login_Diego_Nogueira.csproj.GenerateResource.Cache
