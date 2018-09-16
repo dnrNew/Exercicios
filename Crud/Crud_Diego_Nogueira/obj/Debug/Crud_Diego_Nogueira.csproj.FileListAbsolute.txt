@@ -1,0 +1,19 @@
+D:\POO\Crud_Diego_Nogueira\Crud_Diego_Nogueira\bin\Debug\Crud_Diego_Nogueira.exe.config
+D:\POO\Crud_Diego_Nogueira\Crud_Diego_Nogueira\bin\Debug\Crud_Diego_Nogueira.exe
+D:\POO\Crud_Diego_Nogueira\Crud_Diego_Nogueira\bin\Debug\Crud_Diego_Nogueira.pdb
+D:\POO\Crud_Diego_Nogueira\Crud_Diego_Nogueira\bin\Debug\MySql.Data.dll
+D:\POO\Crud_Diego_Nogueira\Crud_Diego_Nogueira\obj\Debug\Crud_Diego_Nogueira.Properties.Resources.resources
+D:\POO\Crud_Diego_Nogueira\Crud_Diego_Nogueira\obj\Debug\Crud_Diego_Nogueira.frmCliente.resources
+D:\POO\Crud_Diego_Nogueira\Crud_Diego_Nogueira\obj\Debug\Crud_Diego_Nogueira.csproj.GenerateResource.Cache
+D:\POO\Crud_Diego_Nogueira\Crud_Diego_Nogueira\obj\Debug\Crud_Diego_Nogueira.exe
+D:\POO\Crud_Diego_Nogueira\Crud_Diego_Nogueira\obj\Debug\Crud_Diego_Nogueira.pdb
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Crud_Diego_Nogueira\Crud_Diego_Nogueira\bin\Debug\Crud_Diego_Nogueira.exe.config
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Crud_Diego_Nogueira\Crud_Diego_Nogueira\obj\Debug\Crud_Diego_Nogueira.exe
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Crud_Diego_Nogueira\Crud_Diego_Nogueira\obj\Debug\Crud_Diego_Nogueira.pdb
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Crud_Diego_Nogueira\Crud_Diego_Nogueira\bin\Debug\Crud_Diego_Nogueira.exe
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Crud_Diego_Nogueira\Crud_Diego_Nogueira\bin\Debug\Crud_Diego_Nogueira.pdb
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Crud_Diego_Nogueira\Crud_Diego_Nogueira\bin\Debug\MySql.Data.dll
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Crud_Diego_Nogueira\Crud_Diego_Nogueira\obj\Debug\Crud_Diego_Nogueira.csprojResolveAssemblyReference.cache
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Crud_Diego_Nogueira\Crud_Diego_Nogueira\obj\Debug\Crud_Diego_Nogueira.Properties.Resources.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Crud_Diego_Nogueira\Crud_Diego_Nogueira\obj\Debug\Crud_Diego_Nogueira.frmCliente.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Crud_Diego_Nogueira\Crud_Diego_Nogueira\obj\Debug\Crud_Diego_Nogueira.csproj.GenerateResource.Cache
