@@ -1,0 +1,72 @@
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\bin\Debug\Vendas_Diego_Nogueira.exe.config
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\bin\Debug\Vendas_Diego_Nogueira.exe
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\bin\Debug\Vendas_Diego_Nogueira.pdb
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\bin\Debug\pt\Vendas_Diego_Nogueira.resources.dll
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroCliente.resources
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroProduto.resources
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroEmpresa.resources
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmMenu.resources
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.Properties.Resources.resources
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroCliente.pt.resources
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroProduto.pt.resources
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroEmpresa.pt.resources
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.csproj.GenerateResource.Cache
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\pt\Vendas_Diego_Nogueira.resources.dll
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.exe
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.pdb
+H:\POO\Exercício\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.csprojResolveAssemblyReference.cache
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\bin\Debug\Vendas_Diego_Nogueira.exe.config
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.exe
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.pdb
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.csprojResolveAssemblyReference.cache
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmVendas.resources
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmFuncionario.resources
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroCliente.resources
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroProduto.resources
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroEmpresa.resources
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmMenu.resources
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.Properties.Resources.resources
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmVendas.pt.resources
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmFuncionario.pt.resources
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroCliente.pt.resources
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroProduto.pt.resources
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroEmpresa.pt.resources
+H:\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.csproj.GenerateResource.Cache
+C:\Users\NSR\Downloads\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\bin\Debug\Vendas_Diego_Nogueira.exe.config
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\bin\Debug\Vendas_Diego_Nogueira.exe.config
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\bin\Debug\Vendas_Diego_Nogueira.exe
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\bin\Debug\Vendas_Diego_Nogueira.pdb
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\bin\Debug\pt\Vendas_Diego_Nogueira.resources.dll
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\bin\Debug\MySql.Data.dll
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmVendas.resources
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmFuncionario.resources
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroCliente.resources
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroProduto.resources
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroEmpresa.resources
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmMenu.resources
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.Properties.Resources.resources
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmVendas.pt.resources
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmFuncionario.pt.resources
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroCliente.pt.resources
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroProduto.pt.resources
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroEmpresa.pt.resources
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.csproj.GenerateResource.Cache
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\pt\Vendas_Diego_Nogueira.resources.dll
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.exe
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.pdb
+D:\POO\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.csprojResolveAssemblyReference.cache
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\bin\Debug\Vendas_Diego_Nogueira.exe.config
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.pdb
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.csprojResolveAssemblyReference.cache
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmVendas.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmFuncionario.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroCliente.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroProduto.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroEmpresa.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmMenu.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmVendas.pt.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmFuncionario.pt.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroCliente.pt.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroProduto.pt.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.frmCadastroEmpresa.pt.resources
+E:\DOCUMENTOS - NSR\DNR\2018\TI\Curso Técnico de Informática\Módulo III - ok\Programação Orientada a Objetos - POO\Exercícios\Vendas_Diego_Nogueira\Vendas_Diego_Nogueira\obj\Debug\Vendas_Diego_Nogueira.csproj.GenerateResource.Cache
